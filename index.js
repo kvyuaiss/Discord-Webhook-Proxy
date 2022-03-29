@@ -8,7 +8,7 @@ If you'd like to support us, please donate at https://www.buymeacoffee.com/hyraw
 
 A hosted version of this project is available at https://hook.hyra.io
 
-All the best!
+All the EJS!
 */
 
 const Axios = require("axios").default;
